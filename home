@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<!-- saved from url=(0023)https://madstar.me/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>Madstar</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <meta name="description" content="The people powered search engine. Madstar combines automated searches with editorial curation. Get relevant results faster and discover more without agendas, corporate controls or third party influance.">
+  <meta name="application-name" content="Madstar">
+  <meta name="keywords" content="madstar,search,engine,search engine,human search,human search engine">
+  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="msapplication-TileImage" content="https://madstar.me/images/madstar-windows-tile.png">
+  <meta name="twitter:site" content="@madstar_me">
+  <meta name="twitter:url" content="https://madstar.me/">
+  <meta property="og:title" content="Madstar.me – A People Powered Search Engine">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://madstar.me/">
+  <meta property="og:image" content="https://madstar.me/images/logo2.png">
+  <meta property="og:description" content="The people powered search engine. Madstar combines automated searches with editorial curation. Get relevant results faster and discover more without agendas, corporate controls or third party influance.">
+  <meta property="og:site_name" content="Madstar">
+  <link rel="shortcut icon" href="https://madstar.me/favicon.png">
+  <link rel="image_src" href="https://madstar.me/images/madstar-favicon.png">
+  <link rel="apple-touch-icon" href="https://madstar.me/touch-icon-iphone.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://madstar.me/touch-icon-ipad.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://madstar.me/touch-icon-iphone-retina.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://madstar.me/touch-icon-ipad-retina.png">
+  <link rel="icon" sizes="192x192" href="https://madstar.me/madstar-icon.png">
+
+  <link rel="stylesheet" media="all" href="./Madstar_files/application-*******************************.css">
+  <!--[if lt IE 9]>
+  <script src="html5shiv.min.js"></script>
+  <![endif]-->
+  <!--[if IE]><style type="text/css">
+      img {
+          -ms-interpolation-mode: bicubic;
+          background: rgba(255,255,255,.001);
+          image-rendering: auto;
+      }
+  </style><![endif]-->
+
+  <link href="./Madstar_files/frontpage.css" media="all" rel="stylesheet">
+  <script type="text/javascript" async="" src="./Madstar_files/linkid.js.download"></script><script async="" src="./Madstar_files/analytics.js.download"></script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Website",
+  "name" : "Madstar",
+  "url": "https://madstar.me",
+  "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://madstar.me/q/{search_term_string}",
+      "query-input": "required name=search_term_string"
+  },
+  "sameAs" : [
+     "http://www.facebook.com/madstarmobile",
+     "http://www.twitter.com/madstarmobile",
+     "https://plus.google.com/+madstarmobile"
+  ],
+  "logo": "https://madstar.me/madstar-logo.png"
+}
+</script>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="************************">
+</head>
+<body class="frontpage-background-color frontpage application hasGoogleVoiceExt">
+
+<div id="vertical-wrapper" class="vertical-wrapper">
+    <div class="container">
+      <div class="row text-center madstar-logo-start" id="madstar-header">
+        <div class="col-xs-6 col-xs-offset-3 col-md-4 col-md-offset-4 text-center">
+          <a href="https://madstar.me/"><img alt="Madstar" class="madstar-logo" src="./Madstar_files/madstar-logo-homepage.png"></a>
+        </div>
+      </div>
+
+      <div class="row text-center" id="madstar-header">
+        <div class="col-xs-12 col-md-6 vcenter search-input-col">
+          <div data-react-class="Searchbar" data-react-props="{&quot;prerender&quot;:true,&quot;explainerText&quot;:&quot;\u003cp\u003e\u003cspan class=\&quot;twitter-hashflag-container\&quot;\u003e\u003ca class=\&quot;twitter-hashtag pretty-link js-nav\&quot; data-query-source=\&quot;hashtag_click\&quot; dir=\&quot;ltr\&quot; href=\&quot;https://madstar.me/about_madstar\&quot; target=\&quot;_blank\&quot;\u003e\u003cb\u003eA new way to search online\u003c/b\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\r\n\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n&quot;}"><form data-reactid=".0"><div class="input-group" data-reactid=".0.0"><input type="text" autocomplete="off" class="form-control" style="height:40px;" placeholder="" id="search-input" data-reactid=".0.0.0"><span class="input-group-btn" data-reactid=".0.0.1"><button class="btn btn-default btn-black" type="submit" style="height:40px;" data-reactid=".0.0.1.0"><span class="glyphicon glyphicon-search" data-reactid=".0.0.1.0.0"></span></button></span></div><div style="margin:43px 0 15px 0;display:block;text-align:center;" id="search-explainer" data-reactid=".0.1"><div style="display:inline;" data-reactid=".0.1.0"><p><span class="twitter-hashflag-container"><a class="twitter-hashtag pretty-link js-nav" data-query-source="hashtag_click" dir="ltr" href="https://madstar.me/about_madstar" target="_blank"><b>A new way to search online</b></a></span></p>
+
+<p>&nbsp;</p>
+</div></div></form></div>
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="container">
+  <div class="sk-circle" id="spinner" style="display: none">
+    <div class="sk-circle1 sk-child"></div>
+    <div class="sk-circle2 sk-child"></div>
+    <div class="sk-circle3 sk-child"></div>
+    <div class="sk-circle4 sk-child"></div>
+    <div class="sk-circle5 sk-child"></div>
+    <div class="sk-circle6 sk-child"></div>
+    <div class="sk-circle7 sk-child"></div>
+    <div class="sk-circle8 sk-child"></div>
+    <div class="sk-circle9 sk-child"></div>
+    <div class="sk-circle10 sk-child"></div>
+    <div class="sk-circle11 sk-child"></div>
+    <div class="sk-circle12 sk-child"></div>
+  </div>
+</div>
+
+<div class="container">
+  <div data-react-class="MadstarResults" data-react-props="{&quot;prerender&quot;:false,&quot;instructionText&quot;:&quot;Hit enter for more results&quot;,&quot;noResultsText&quot;:&quot;\u003cp\u003e0 People-Powered Results. Press Enter or keep typing.\u003c/p\u003e\r\n&quot;,&quot;firstCategoryExpanded&quot;:true}" style="width:100%;max-width:619px; margin: 0 auto 0 auto;"><div style="width:100%;max-width:619px;" data-reactid=".1"></div></div>
+  <div class="center-block one logorow" id="logo-block-results">
+
+
+</div>
+
+
+
+
+</div>
+
+<div class="modal" data-backdrop="false" id="bookmarkModal">
+  <div class="vertical-alignment-helper">
+      <div class="modal-dialog vertical-align-center">
+        <div class="modal-content">
+          <div class="modal-header bookmark-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            <h4 class="modal-title">Set Madstar.me as your Homepage</h4>
+          </div>
+          <div class="modal-body">
+            <p><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;">1. Click on the </span></span></span><span style="color:#333333;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Chrome menu icon</strong></span></span></span><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"> in the upper right corner and select </span></span></span><span style="color:#333333;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Settings</strong></span></span></span><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;">.</span></span></span></p>
+
+<p><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><img alt="" height="147" src="./Madstar_files/content_set-homepage-chrome.png" width="140"></span></span></span></p>
+
+<p><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;">2. Under </span></span></span><span style="color:#333333;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>On startup</strong></span></span></span><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;">, Click the blue link </span></span></span><span style="color:#333333;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Set pages</strong></span></span></span><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;">. Enter </span></span></span><span style="color:#008080;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>madstar.me</strong></span></span></span><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"> in the Add a new page field.</span></span></span></p>
+
+<p><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;">3. In the </span></span></span><span style="color:#333333;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Appearance section</strong></span></span></span><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;">, check </span></span></span><span style="color:#333333;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Show Home button</strong></span></span></span><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;">. Click the blue link </span></span></span><span style="color:#333333;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Change</strong></span></span></span><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;">. Type </span></span></span><span style="color:#008080;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>madstar.me</strong></span></span></span><span style="color:#666666;"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"> in the box.</span></span></span></p>
+
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
+<footer class="footer">
+  <nav class="navbar navbar-default" role="navigation">
+    <p class="navbar-text navbar-left">
+      <a href="https://madstar.me/#" data-toggle="modal" data-target="#bookmarkModal">Make Madstar.me your Homepage</a>
+      
+    </p>
+
+    <p class="navbar-text navbar-right">
+      <a href="https://madstar.me/privacy">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://madstar.me/terms">Terms</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://madstar.me/support">Help</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://madstar.me/about_madstar">About Madstar</a>
+
+    </p>
+  </nav>
+</footer>
+
+<script src="./Madstar_files/application-********************************.js.download"></script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-51814923-4', 'auto');
+        ga('require', 'displayfeatures');
+        ga('require', 'linkid', 'linkid.js');
+        ga('send', 'pageview');
+        ga('set', 'anonymizeIp', true);
+    </script>
+
+
+<!--[if lt IE 9]>
+<script src="respond.min.js"></script>
+<![endif]-->
+
+<div class="device-xs visible-xs"></div>
+<div class="device-sm visible-sm"></div>
+<div class="device-md visible-md"></div>
+<div class="device-lg visible-lg"></div>
+
+
+</body></html>
